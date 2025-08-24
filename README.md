@@ -23,3 +23,24 @@ volunteer, donate, and support events. </li>
     <strong>Fundrasing:</strong> Promote fundraising events, donation drives, and community outreach activities. 
   </li>
 </ul>
+
+<strong>Objectives:</strong>
+
+<ul>
+  <li><strong>Service Impact:</strong> Number of individuals sheltered and meals served.</li>
+  <li><strong>Community Engagement:</strong> Active volunteers and event attendance.</li>
+  <li><strong>Fundraising:</strong> Donations received</li>
+</ul>
+
+<strong>Key Features and Funcinality:</strong>
+
+Homepage: Mission statement, impact highlights, call-to-action buttons, and hero 
+image/video. 
+About Us: Mission, vision, history, leadership, and transparency details. 
+Services: Emergency shelter, meal programs, family support, and outreach. 
+Donate Page: Secure donation form, in-kind donation details, fundraising progress 
+bar. 
+Volunteer Page: Application form, upcoming events, and projects. 
+Blog: Calendar of events, registration for fundraisers, updates, and awareness articles. 
+Contact Us: Contact form, phone numbers, email addresses, and Google Maps 
+integration.
