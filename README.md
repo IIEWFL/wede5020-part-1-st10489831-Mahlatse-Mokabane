@@ -14,6 +14,8 @@ The non-profit Shelter of Kindness website aims to link communities through volu
 <strong>Goals:</strong>
 <br>
 <ul>
-  <li>Raise Awareness: Educate the public about homelessness and encourage 
+  <li><strong>Raise Awareness:</li>strong> Educate the public about homelessness and encourage 
 compassion within communities.</li>
+  <li><strong>Recruit Volunteers and Promote Campaigns:</strong>strong> Provide opportunities for people to 
+volunteer, donate, and support events. </li>
 </ul>
