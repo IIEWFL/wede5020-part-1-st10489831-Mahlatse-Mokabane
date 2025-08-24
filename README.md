@@ -34,13 +34,20 @@ volunteer, donate, and support events. </li>
 
 <strong>Key Features and Funcinality:</strong>
 
-Homepage: Mission statement, impact highlights, call-to-action buttons, and hero 
-image/video. 
-About Us: Mission, vision, history, leadership, and transparency details. 
-Services: Emergency shelter, meal programs, family support, and outreach. 
-Donate Page: Secure donation form, in-kind donation details, fundraising progress 
-bar. 
-Volunteer Page: Application form, upcoming events, and projects. 
-Blog: Calendar of events, registration for fundraisers, updates, and awareness articles. 
-Contact Us: Contact form, phone numbers, email addresses, and Google Maps 
-integration.
+<ul>
+  <li>Homepage: Mission statement, impact highlights, call-to-action buttons, and hero 
+image/video.</li>
+  <li>About Us: Mission, vision, history, leadership, and transparency details.</li>
+  <li>Services: Emergency shelter, meal programs, family support, and outreach.</li>
+  <li>Donate Page: Secure donation form, in-kind donation details, fundraising progress 
+bar.</li>
+  <li>Volunteer Page: Application form, upcoming events, and projects.</li>
+  <li>Blog: Calendar of events, registration for fundraisers, updates, and awareness articles.</li>
+  <li>Contact Us: Contact form, phone numbers, email addresses, and Google Maps 
+integration.</li>
+</ul> 
+
+
+
+
+
