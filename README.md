@@ -79,9 +79,71 @@ integration.</li>
 
 <strong>Sitemap</strong>
 
+<strong>Homepage(index.html)</strong>
+<ul>
+  <li>Mission statement</li>
+  <li>Impact highlights</li>
+  <li>Call-to-action buttons</li>
+  <li>Hero image</li>
+</ul>
+
+<strong>About us(about.html)</strong>
+<ul>
+  <li>Mission & Vision</li>
+  <li>History</li>
+  <li>Leardership</li>
+</ul>
+
+<strong>Services(service.html)</strong>
+<ul>
+  <li>Meal Programs</li>
+  <li>Family Support</li>
+  <li>Coummunity Outreach</li>
+</ul>
+
+<strong>Donate(dontate.html)</strong>
+<ul>
+  <li>Secure Donation Form</li>
+  <li>In-Kind donations</li>
+</ul>
+
+<strong>Volunteer(volunteer.html)</strong>
+<ul>
+  <li>Volunteer application form</li>
+  <li>Upoming events</li>
+</ul>
+
+<strong>Blog(blog.html)</strong>
+<ul>
+  <li>Awareness Articles</li>
+  <li>Fundraiser registration</li>
+</ul>
+
+<strong>Contact Us(contact.html)</strong>
+<ul>
+  <li>Contact form</li>
+  <li>Phone numbers</li>
+  <li>Email address</li>
+  <li>Google Maps integration</li>
+</ul>
+  
 <strong>Changelog:</strong>
 
+<ul>
+  <li>Initial project proposal created</li>
+  <li>Outlined organisation overview, mission, and vision.</li>
+  <li>Defined core pages: Home, About, Services, Donate, Volunteer, Blog, Contact.</li>
+  <li>Expanded Programs/Services descriptions</li>
+  <li>Built first HTML demo of Homepage and About page (basic layout with external CSS).</li>
+  <li> Included Hero section with mission tagline.</li>
+  <li>Added more detailed content to Programs/Services page.</li>
+  <li>Added Volunteer, Contact, and Registration forms.</li>
+  <li>Added Blog/News page layout for future updates and event posts.</li>
+  <li>Prepared project overview report with Harvard references.</li>
+</ul>
+
 <strong>References:</strong>
+
 Domains.co.za. 2025. Domain registration and hosting. Available at: < https://www.domains.co.za> [Accessed: 15 August 2025]. 
 
 Google for Nonprofits. 2025. Google for Nonprofits overview. Available at: 
