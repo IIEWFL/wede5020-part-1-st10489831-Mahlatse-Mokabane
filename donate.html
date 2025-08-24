@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Donate | Shelter of Kindness</title>
+</head>
+<body>
+    
+    <!--Header-->
+    <header class="header">
+        <!--image of logo-->
+        <div class="logo"> <img src="images_/logo.png" width="250"></div>
+        <nav>
+            <ul class="nav-links">
+                <li><a href="index.html">Home</a></li>
+                 <li><a href="about.html">About Us</a></li>
+                 <li><a href="contact.html">Contact Us</a></li>
+                 <li><a href="services.html">Our Services</a></li>
+                 <li><a href="volunteer.html">Volunteer</a></li>
+                 <li><a href="donate.html">Donate</a></li>
+                 <li><a href="blog.html">Blog</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <!--Hero section-->
+        <section class="donate-hero">
+            <!-- Hero image-->
+            <img src="images_/handing_out.jpg" width="800" height="400">
+            <div class="hero-text">
+                <h1>Make a Donation</h1>
+                <p>Your kindness brings hope, shelter, and meals to those in need.</p>
+            </div>
+        </section>
+
+        <!--Fundraising progress-->
+        <section class="content">
+            <h2>Fundraising Progress</h2>
+            <div class="progress-container">
+                <div class="progress-bar"></div>
+            </div>
+            <p><strong>R50,000</strong> raised of our <strong>R100,000</strong> goal.</p>
+        </section>
+
+        <!--Donation Form-->
+        <section class="content">
+            <h2>Donate Online</h2>
+            <form class="donation-form">
+                <label for="amount"> Choose Amount:</label>
+                <div class="donation-options">
+                    <button type="button" class="donation-option">R50</button>
+                    <button type="button" class="donation-option">R100</button>
+                    <button type="button" class="donation-option">R250</button>
+                    <button type="button" class="donation-option">R300</button>
+                    <button type="button" class="donation-option">Other</button>
+                </div>
+
+                <label for="donorName">Full Name</label>
+                <input type="text" id="donorName" name="donorName" placeholder="Your Name" required/>
+                <br>
+                <label for="donorEmail">Email</label>
+                <input type="email" id="donorEmail" name="donorEmail" placeholder="Your email" required/>
+                <br>
+                <label for="payment"> Payment Method</label>
+                <select id="payment" name="payment">
+                    <option>Credit/Debit Card</option>
+                    <option>Bank Transfer</option>
+                    <option>PayPal</option>
+                </select>
+                <br>
+                <button type="submit" class="btn-submit"> Donate Now</button>
+            </form>
+        </section>
+
+        <!--In Kind Donation-->
+        <section class="content">
+            <h2>In-Kind Donations</h2>
+           <div class="donation-box">
+             <img src="images_/donation_box.jpg" width="400">
+           </div>
+            <p>You can also support us by donating clothing, blankets, or food supplies.</p>
+            <p>Please contact us to arrange delivery or collection.</p>
+            <a href="contact.html" class="btn-link">Contact Us</a>
+        </section>
+    </main>
+
+    <!--Footer with social links-->
+    <footer class="footer">
+       <!--hspace adds a blank space on the left and right of an image -->
+       <!--Social Links-->
+       <!--Instagram-->
+      <a href="https://www.instagram.com/mah1ats3_/" target="_blank">
+        <img src="images_/instagram.png" alt="Instagram" width="50" height="50" hspace="20">
+      </a>
+      <!--TikTok-->
+      <a href="https://www.tiktok.com/@mah1ats3_?_t=ZM-8z9LLCoad0g&_r=1" target="_blank">
+        <img src="images_/social-media.png" alt="TikTok" width="50" height="50" hspace="20">
+      </a>
+      <!--YouTube-->
+      <a href="https://www.youtube.com/@mahlatse." target="_blank">
+        <img src="images_/youtube.png" alt="YouTube" width="50" height="50" hspace="20">
+      </a>
+        <p>&copy; 2025 Shelter of Kindness | "Where compassion finds a home"</p>
+    </footer>
+</body>
+</html>
