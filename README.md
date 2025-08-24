@@ -71,10 +71,10 @@ integration.</li>
 <strong>Part 1 Details:</strong>
 
 <ul>
-  <li><strong>Plan Your Project</strong></li> 
-  <li><strong>Research and Content Gathering</strong></li>
-  <li><strong>Create the HTML Structure</strong></li>
-  <li><strong>Organise Your Files</strong></li>
+  <li>Plan Your Project</li> 
+  <li>Research and Content Gathering</li>
+  <li>Create the HTML Structure</li>
+  <li>Organise Your Files</li>
 </ul>
 
 <strong>Sitemap</strong>
@@ -82,3 +82,41 @@ integration.</li>
 <strong>Changelog:</strong>
 
 <strong>References:</strong>
+Domains.co.za. 2025. Domain registration and hosting. Available at: < https://www.domains.co.za> [Accessed: 15 August 2025]. 
+
+Google for Nonprofits. 2025. Google for Nonprofits overview. Available at: 
+<https://www.google.com/nonprofits/> [Accessed: 15 August 2025]. 
+
+HostAfrica.com. 2025. Hosting and services price changes – CMS hosting and web hosting costs. 
+Available at: < https://www.hostafrica.com/blog/news/price-increase-notification/> [Accessed:15 August 2025]. 
+
+RegisterDomain.co.za. 2025 Domain registration pricing in South Africa. Available at: < 
+https://www.registerdomain.co.za> [Accessed: 15 August 2025]. 
+
+SiteGround. 2025. Web hosting services. Available at: < https://www.siteground.com [Accessed: 15 
+August 2025]. 
+
+Truehost South Africa. 2025. Domain registration and hosting. Available at: <https://truehost.co.za> [Accessed: 15 August 2025]. 
+
+Flaticon. 2025. Free vector icons and stickers. [online] Available at: https://www.flaticon.com/  [Accessed 22 August 2025]. 
+
+Google Fonts. 2025. Montserrat & Open Sans font families. [online] Available at: https://fonts.google.com/ [Accessed 22 August 2025]. 
+
+Google Maps. 2025. Google Maps Embed API. [online] Available at: 
+https://developers.google.com/maps/documentation/embed [Accessed 22 August 2025]. 
+
+https://www.flaticon.com/free-animated-icons/message title="message animated icons">Message animated icons created by Freepik - Flaticon 
+
+https://www.flaticon.com/free-animated-icons/phone-call  title="phone call animated icons">Phone call animated icons created by Freepik - Flaticon 
+
+https://www.flaticon.com/free-animated-icons/real-estate title="real estate animated icons">Real estate animated icons created by Freepik - Flaticon 
+
+https://www.flaticon.com/free-icons/brands-and-logotypes title="brands and logotypes icons">Brands and logotypes icons created by Freepik – Flaticon  
+
+https://www.flaticon.com/free-icons/instagram title="instagram icons">Instagram icons created by cobynecz - Flaticon 
+
+https://www.flaticon.com/free-icons/tiktok title="tiktok icons">Tiktok icons created by cobynecz - Flaticon
+
+Unsplash. 2025. Free stock photos for websites. [online] Available at: https://unsplash.com/  [Accessed 22 August 2025]. 
+
+W3Schools. 2025. HTML and CSS tutorials. [online] Available at: https://www.w3schools.com/  [Accessed 22 August 2025].
