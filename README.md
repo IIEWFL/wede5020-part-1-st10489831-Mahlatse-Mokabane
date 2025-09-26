@@ -1,4 +1,4 @@
-<img width="1889" height="954" alt="Screenshot 2025-09-26 180828" src="https://github.com/user-attachments/assets/07e43ab2-6b64-4302-bbf9-2b0de46846d5" /><strong>WEDE5020 Part 1</strong>
+<strong>WEDE5020 Part 1</strong>
 
 Mahlatse Mokabane
 
