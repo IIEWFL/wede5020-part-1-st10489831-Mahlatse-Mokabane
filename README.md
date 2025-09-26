@@ -1,4 +1,4 @@
-<strong>WEDE5020 Part 1</strong>
+<strong>WEDE5020 Part 1 and 2</strong>
 
 Mahlatse Mokabane
 
