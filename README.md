@@ -168,14 +168,24 @@ integration.</li>
 <strong>Screenshots of responsive devices:</strong>
 
 <strong>Mobile</strong>
+
 <img width="1117" height="969" alt="Screenshot 2025-09-26 181839" src="https://github.com/user-attachments/assets/77e68109-053e-4d2b-94af-fc31400d6324" />
 <img width="1063" height="923" alt="Screenshot 2025-09-26 181850" src="https://github.com/user-attachments/assets/fc98cd54-1aa7-4d7d-92a5-5c76895efcbf" />
 <img width="724" height="818" alt="Screenshot 2025-09-26 181858" src="https://github.com/user-attachments/assets/f33ee245-214d-410f-98c2-5f29f3a0ecc6" />
 
 <strong>Desktop</strong>
 
+<img width="1889" height="954" alt="Screenshot 2025-09-26 180828" src="https://github.com/user-attachments/assets/fc87da2b-5af3-4aa3-b8c4-5f1c6d94de52" />
+<img width="1872" height="910" alt="Screenshot 2025-09-26 180853" src="https://github.com/user-attachments/assets/da382a35-11ff-496c-b22e-2293e20d050c" />
+<img width="1821" height="584" alt="Screenshot 2025-09-26 180921" src="https://github.com/user-attachments/assets/80219906-c63c-4df9-9cb4-30fe2759aa2e" />
+<img width="1902" height="876" alt="Screenshot 2025-09-26 180952" src="https://github.com/user-attachments/assets/e14f1fce-251e-4854-b9ea-d860cc9bc5ce" />
 
+<strong>Tabelet</strong>
 
+<img width="1149" height="963" alt="Screenshot 2025-09-26 181412" src="https://github.com/user-attachments/assets/84800404-1b7f-48a8-a6c0-11ef27b98fe8" />
+<img width="1198" height="951" alt="Screenshot 2025-09-26 181427" src="https://github.com/user-attachments/assets/b7a4cb8c-ea07-4350-aca1-a716f5ff35f3" />
+<img width="1214" height="962" alt="Screenshot 2025-09-26 181444" src="https://github.com/user-attachments/assets/db05ba66-8112-47f0-bdfa-882d3146796c" />
+<img width="560" height="385" alt="Screenshot 2025-09-26 181454" src="https://github.com/user-attachments/assets/a6d40f20-aed1-4396-b5bd-215476013866" />
 
 <strong>References:</strong>
 
