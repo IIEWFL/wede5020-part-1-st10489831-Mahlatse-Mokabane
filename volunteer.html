@@ -3,6 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Open+Sans:wght@400&display=swap">
+    <link rel="stylesheet" href="css/styles.css">
     <title>Volunteer | Shelter of Kindness</title>
 </head>
 <body>
@@ -10,32 +12,33 @@
     <!--Header-->
     <header>
         <!--Image of Logo-->
-        <div class="logo"> <img src="images_/logo.png" width="250"> </div>
+        <div class="logo"> <img src="images_/logo_img.png" width="250" class="logo-img" alt="logo"> </div>
+         <h1 class="title">Shelter of Kindness</h1>
         <nav>
             <ul class="nav-link">
-                <li><a href="index.html">Home</a></li>
-                <li><a href="about.html">About Us</a></li>
-                <li><a href="contact.html">Contact Us</a></li>
-                <li><a href="services.html">Our Services</a></li>
-                <li><a href="volunteer.html">Volunteer</a></li>
-                <li><a href="donate.html">Donate</a></li>
-                <li><a href="blog.html">Blog</a></li>
+                <a href="index.html">Home</a>
+                <a href="about.html">About Us</a>
+                <a href="contact.html">Contact Us</a>
+                <a href="services.html">Our Services</a>
+                <a href="volunteer.html">Volunteer</a>
+                <a href="donate.html">Donate</a>
+                <a href="blog.html">Blog</a>
             </ul>
         </nav>
     </header>
 
     <main>
         <!--Hero Section-->
-        <section class="volunteer-hero">
-            <img src="images_/volunteer_hero.webp" width="800">
+        <section class="about-hero">
+            <img src="images_/volunteer_hero.webp" width="1400" height="400" alt="Volunteer" class="hero-img">
             <div class="hero-text">
-                <h1>Join our Volunteer Team</h1>
+                <h1><span style="color: #bb00b5;" >Join our Volunteer Team</span></h1>
                 <p>Give your time, skills, and heart to make a lasting difference.</p>
             </div>
         </section>
 
         <!--Volunteer Form-->
-        <section class="content">
+        
             <h2>Volunteer Application</h2>
             <form class="volunteer-form">
                 <label for="volName">Full Name</label>
@@ -74,7 +77,7 @@
                 <br>
                 <button type="submit" class="btn-submit">Sign up to Volunteer</button>
             </form> 
-        </section>
+
 
         <!--Upcoming Events-->
         <section class="content">
@@ -95,8 +98,10 @@
 
         <!--Call to Action-->
         <section class="cta-banner">
-            <div class="package">
-                <img src="images_/donation_packages.jpg" width="400">
+            <div class="image-row">
+                <img src="images_/donation_packages.jpg" width="400" alt="donation donation_packages">
+                <img src="images_/more_donation.jpg" width="400" alt="more donation">
+                <img src="images_/soup_kitchen.jpg" width="400" alt="soup kitchen">
             </div>
             <h2>Your time can change lives</h2>
             <p>Sign up today and be part of the shelter of kindness volunteer family.</p>
@@ -107,6 +112,7 @@
 
     <!--Footer with social links-->
     <footer class="footer">
+        <h2>Follow our Social Media for more Updates!</h2>
        <!--hspace adds a blank space on the left and right of an image -->
        <!--Social Links-->
        <!--Instagram-->

@@ -3,22 +3,25 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Open+Sans:wght@400&display=swap">
+     <link rel="stylesheet" href="css/styles.css">
     <title>About Us | Shelter of Kindness</title>
 </head>
 <body>
     <!-- Header-->
      <header class="header">
         <!--Image of logo-->
-        <div class="logo"><img src="images_/logo.png" width="250"></div>
+        <div class="logo"><img src="images_/logo_img.png" width="250" class="logo-img" alt="logo"></div>
+         <h1 class="title">Shelter of Kindness</h1>
         <nav>
             <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="about.html">About Us</a></li>
-                <li><a href="contact.html">Contact Us</a></li>
-                <li><a href="services.html"> Our Services</a></li>
-                <li><a href="volunteer.html">Volunteer</a></li>
-                <li><a href="donate.html">Donate</a></li>
-                <li><a href="blog.html">Blog</a></li>
+              <a href="index.html">Home</a>
+              <a href="about.html">About Us</a>
+              <a href="contact.html">Contact Us</a>
+              <a href="services.html"> Our Services</a>
+              <a href="volunteer.html">Volunteer</a>
+              <a href="donate.html">Donate</a>
+              <a href="blog.html">Blog</a>
             </ul>
         </nav>
      </header>
@@ -27,10 +30,10 @@
      <!-- Hero Section-->
       <section class="about-hero">
         <!--Hero image-->
-        <img src="images_/happy_kids.jpg" width="800" height="400">
+        <img src="images_/happy_kids.jpg" width="1450" height="400" class="hero-img" alt="happy_kids">
         <div class="hero-text">
-            <h1>About Us</h1>
-            <p><i>"Where compassion finds a home"</i></p>
+            <h1><span style="color:#bb00b5;">About Us</span> </h1>
+            <p class="subtitle"><i>"Where compassion finds a home"</i></p>
         </div>
       </section>
 
@@ -60,21 +63,26 @@
        </section>
 
        <!--Target Audience-->
-       <section class="content">
+       
         <h2>Who we Serve</h2>
-        <div class="medical">
-          <img src="images_/medical_assistance.jpg" width="350">
+        <div style="display: flex; justify-content: center; gap: 30px; margin-bottom: 20px;">
+          <img src="images_/medical_assistance.jpg" width="350" class="medical-img" alt="assistance">
+          <img src="images_/acts_of_kindness.jpg" width="350" class="acts_of_kindness-img" alt="kindness">
+          <img src="images_/fruits.png" width="350" class="fruits" alt="fruits">
         </div>
         
         <ul>
+          <div style="max-width: 700px; margin: auto; text-align: left; font-size: 16px;">
             <li>Families in crisis due to eviction, domestic abuse, or financial hardship</li>
             <li>Homeless individuals, including youth and the elderly</li>
             <li>People with disabilities in underprivileged communities</li>
+          </div>
         </ul>
        </section>
 
        <!-- Footer with social links-->
         <footer class="footer">
+          <h2>Follow our Social Media for more Updates!</h2>
        <!--hspace adds a blank space on the left and right of an image -->
        <!--Social Links-->
        <!--Instagram-->

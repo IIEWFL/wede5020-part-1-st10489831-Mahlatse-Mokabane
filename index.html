@@ -3,14 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700&family=Open+Sans:wght@400&display=swap">
+    <link rel="stylesheet" href="css/styles.css">
     <title>Home | Shelter of Kindness</title>
 </head>
 <body>
   <!-- Header and Navigation-->
   <header>
         <!-- Image of the Logo-->
-         <img src="images_/logo.png" width="250" >
-        <h1>Shelter of Kindness</h1>
+          <img src="images_/logo_img.png" width="250" class="logo-img" alt="logo">
+          <h1 class="title">Shelter of Kindness</h1>
+  
         <nav>
           <a href="index.html">Home</a>
           <a href="about.html">About Us</a>
@@ -26,9 +29,10 @@
       <!-- Hero Section-->
       <section class="hero">
         <!--Hero image-->
-        <img src="images_/holding_hands.jpg" height="400" width="800">
+          <img src="images_/holding_hands.jpg" width="1400" height="400" class="hero-img" alt="hol">
+        
         <div class="hero-text">
-          <h1><i>Where compassion finds a home</i></h1>
+          <h1><i><span style="color:#bb00b5 ;">Where compassion finds a home</span></i></h1>
           <p>Together, we provide shelter, meals, and support for families and individuals in need.</p>
           <div class="cta-buttons">
             <a href="donate.html" class="btn-donate">Donate Now</a>
@@ -38,44 +42,48 @@
       </section>
 
       <!-- Impact stats -->
-       <section class="stats">
-        <div class="stat">
-          <h2>2,350+</h2>
-          <p>People Helped</p>
-        </div>
-        <div class="stat">
-          <h2>18,500+</h2>
-          <p>Meals Served</p>
-        </div>
-        <div class="stat">
-          <h2>50+</h2>
-          <p>Families Rehoused</p>
-          <div class="stat">
+       <section class="stats-conatiner">
+        <div id="container">
+         <div class="items">
+           <h2>2,350+</h2>
+           <p>People Helped</p>
+         </div>
+         <div class="items">
+           <h2>18,500+</h2>
+           <p>Meals Served</p>
+         </div>
+         <div class="items">
+           <h2>50+</h2>
+           <p>Families Rehoused</p>
+          </div>
+         <div class="items">
             <h2>15+</h2>
             <p>Active Volunteers</p>
           </div>
-          <div class="stat">
-            <h2>150+</h2>
-            <p>Event Attendance</p>
-          </div>
-          <div class="stat">
-            <h2>200+</h2>
-            <p>Donations Received</p>
-          </div>
+           <div class="items">
+             <h2>150+</h2>
+             <p>Event Attendance</p>
+           </div>
+           <div class="items">
+             <h2>200+</h2>
+             <p>Donations Received</p>
+           </div>
         </div>
        </section>
 
        <!-- Learn More-->
         <section class="cards">
-          <div class="card">
-            <h3>About Us</h3>
-            <p>Learn more about our mission to bring stability, hope and dignity to every person we help.</p>
-            <a href="about.html" class="btn-link">Read More</a>
-          </div>
-          <div class="card">
-            <h3>Our Services</h3>
-            <p>From emergency shelter to family support, discover the programmes we offer:</p>
-            <a href="services.html" class="btn-link">Explore Services</a>
+         <div id="blocks">
+            <div class="card">
+              <h3>About Us</h3>
+              <p>Learn more about our mission to bring stability, hope and dignity to every person we help.</p>
+              <a href="about.html" class="btn-link">Read More</a>
+           </div>
+           <div class="card">
+             <h3>Our Services</h3>
+             <p>From emergency shelter to family support, discover the programmes we offer:</p>
+             <a href="services.html" class="btn-link">Explore Services</a>
+           </div>
           </div>
         </section>
 
@@ -85,23 +93,25 @@
           <div class="story">
             <blockquote>"I found my safety and a community that believed in me."<cite>- Nthabiseng</cite></blockquote>
             <blockquote>"Hot meals and warm hearts carried us through."<cite>-Lesedi</cite></blockquote>
-            <blockquote>"From streets to stability. Thank you for the second chance."<cite>Sabelo</cite></blockquote>
+            <blockquote>"From streets to stability. Thank you for the second chance."<cite>-Sabelo</cite></blockquote>
           </div>
         </section>
 
         <!-- Get Involved-->
          <section class="get-involved">
           <h2>Get Involved</h2>
-          <div class="card">
-            <h3>Volunteer</h3>
-            <p>Join our volunteer community and make a difference.</p>
-            <a href="volunteer.html" class="btn-link">Sign up</a>
+        <div id="blocks">
+           <div class="card">
+              <h3>Volunteer</h3>
+              <p>Join our volunteer community and make a difference.</p>
+              <a href="volunteer.html" class="btn-link">Sign up</a>
+           </div>
+           <div class="card">
+              <h3>Donate</h3>
+              <p>Your contributions help us provide meals, shelter and support.</p>
+              <a href="donate.html" class="btn-link">Donate Now</a>
           </div>
-          <div class="card">
-            <h3>Donate</h3>
-            <p>Your contributions help us provide meals, shelter and support.</p>
-            <a href="donate.html" class="btn-link">Donate Now</a>
-          </div>
+        </div>
          </section>
     </main>
 
