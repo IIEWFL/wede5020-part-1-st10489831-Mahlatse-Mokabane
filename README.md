@@ -1,4 +1,4 @@
-<img width="724" height="818" alt="image" src="https://github.com/user-attachments/assets/f5cb3671-6faa-45c0-8795-7403f1778519" /><strong>WEDE5020 Part 1</strong>
+<img width="1889" height="954" alt="Screenshot 2025-09-26 180828" src="https://github.com/user-attachments/assets/07e43ab2-6b64-4302-bbf9-2b0de46846d5" /><strong>WEDE5020 Part 1</strong>
 
 Mahlatse Mokabane
 
@@ -165,6 +165,18 @@ integration.</li>
   <li>Used CSS properties like 'box-shadow' to style elements visually. </li>
 </ul>
 
+<strong>Screenshots of responsive devices:</strong>
+
+<strong>Mobile</strong>
+<img width="1117" height="969" alt="Screenshot 2025-09-26 181839" src="https://github.com/user-attachments/assets/77e68109-053e-4d2b-94af-fc31400d6324" />
+<img width="1063" height="923" alt="Screenshot 2025-09-26 181850" src="https://github.com/user-attachments/assets/fc98cd54-1aa7-4d7d-92a5-5c76895efcbf" />
+<img width="724" height="818" alt="Screenshot 2025-09-26 181858" src="https://github.com/user-attachments/assets/f33ee245-214d-410f-98c2-5f29f3a0ecc6" />
+
+<strong>Desktop</strong>
+
+
+
+
 <strong>References:</strong>
 
 Domains.co.za. 2025. Domain registration and hosting. Available at: < https://www.domains.co.za> [Accessed: 15 August 2025]. 
@@ -212,6 +224,6 @@ Google Developers. 2025. Responsive Web Design Basics. [online] Available at: ht
 
 Mozilla Developer Network. 2025. [online] CSS Animations. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations (Accessed: 25 September 2025).
 
-W3C. 2021. CSS Grid Layout Module Level 2. Available at: https://www.w3.org/TR/css-grid-2/ (Accessed: 25 September 2025).
+W3C. 2021. [online] CSS Grid Layout Module Level 2. Available at: https://www.w3.org/TR/css-grid-2/ (Accessed: 25 September 2025).
 
-W3C. 2023. CSS Transitions and Animations Module Level 1. Available at: https://www.w3.org/TR/css-animations-1/ (Accessed: 25 September 2025).
+W3C. 2023. [online] CSS Transitions and Animations Module Level 1. Available at: https://www.w3.org/TR/css-animations-1/ (Accessed: 25 September 2025).
