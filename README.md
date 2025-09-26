@@ -1,4 +1,4 @@
-<strong>WEDE5020 Part 1</strong>
+<img width="724" height="818" alt="image" src="https://github.com/user-attachments/assets/f5cb3671-6faa-45c0-8795-7403f1778519" /><strong>WEDE5020 Part 1</strong>
 
 Mahlatse Mokabane
 
@@ -77,6 +77,14 @@ integration.</li>
   <li>Organise Your Files</li>
 </ul>
 
+<strong>Part 2 Details:</strong>
+
+<ul>
+  <li>Apply CSS Styling</li>
+  <li>Create a responsive design</li>
+  <li>Optimise for User Experience</li>
+</ul>
+
 <strong>Sitemap</strong>
 
 <strong>Homepage(index.html)</strong>
@@ -142,6 +150,21 @@ integration.</li>
   <li>Prepared project overview report with Harvard references.</li>
 </ul>
 
+<strong>Updated Changelog</strong>
+
+<ul>
+  <li>Updated README with new information.</li>
+  <li>Upadated all HTML files.</li>
+  <li>Updated Images.</li>
+  <li>Started working on the CSS Styling.</li>
+  <li>Identified breakpoints to make the website responsive for different types of devices.</li>
+  <li>Used browser developer tools to test the website on different devices and screen sizes.</li>
+  <li>Changed the font size and font family for easier readability and user experience.</li>
+  <li>Used relative units like 'rem' for font sizes to ensure responsiveness.</li>
+  <li>Used CSS pseudo classes such as ':hover' to create interactive elements.</li>
+  <li>Used CSS properties like 'box-shadow' to style elements visually. </li>
+</ul>
+
 <strong>References:</strong>
 
 Domains.co.za. 2025. Domain registration and hosting. Available at: < https://www.domains.co.za> [Accessed: 15 August 2025]. 
@@ -182,3 +205,13 @@ https://www.flaticon.com/free-icons/tiktok title="tiktok icons">Tiktok icons cre
 Unsplash. 2025. Free stock photos for websites. [online] Available at: https://unsplash.com/  [Accessed 22 August 2025]. 
 
 W3Schools. 2025. HTML and CSS tutorials. [online] Available at: https://www.w3schools.com/  [Accessed 22 August 2025].
+
+Mozilla Developer Network. 2025. Using Media Queries. [online] Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries (Accessed: 23 September 2025).
+
+Google Developers. 2025. Responsive Web Design Basics. [online] Available at: https://developers.google.com/web/fundamentals/design-and-ux/responsive (Accessed: 23 September 2025).
+
+Mozilla Developer Network. 2025. [online] CSS Animations. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations (Accessed: 25 September 2025).
+
+W3C. 2021. CSS Grid Layout Module Level 2. Available at: https://www.w3.org/TR/css-grid-2/ (Accessed: 25 September 2025).
+
+W3C. 2023. CSS Transitions and Animations Module Level 1. Available at: https://www.w3.org/TR/css-animations-1/ (Accessed: 25 September 2025).
